@@ -14,4 +14,8 @@
 
 ### Link or Image to work
 
--
+- Day 4 of #100DaysOfCode
+
+- DB 設計/時系列 DB 設計
+
+#golang #engineer #エンジニア
