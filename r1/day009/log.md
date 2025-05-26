@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-## Day 8: May 25, 2025
+## Day 9: May 26, 2025
 
 ### Today's Progress
 
-- Zustand 構築
-- 時系列 DB 設計
+- Clerk JWT 検証実装
+- Tanstack Query 導入
 
 ### Thoughts
 
