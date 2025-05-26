@@ -17,5 +17,6 @@
 - Day 4 of #100DaysOfCode
 
 - DB 設計/時系列 DB 設計
+- マイグレーションファイル実装
 
 #golang #engineer #エンジニア
